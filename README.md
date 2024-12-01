@@ -60,5 +60,5 @@ A cutting-edge stock price forecasting system built using deep learning and real
 ```bash
 pip install -r requirements.txt
 ```
-![image](https://github.com/user-attachments/assets/945d5968-bf55-419a-b4c0-79ec0d0e57f1)
+
 
